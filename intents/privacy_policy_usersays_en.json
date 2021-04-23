@@ -1,0 +1,41 @@
+[
+  {
+    "id": "b2ac9109-4629-4726-9239-5237366e0b77",
+    "data": [
+      {
+        "text": "terms of use",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8932408-e39c-4d75-9109-0ecaca59155e",
+    "data": [
+      {
+        "text": "privacy policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88cc6e5b-b3ee-42b8-a496-e3ddfcf0e117",
+    "data": [
+      {
+        "text": "privacy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

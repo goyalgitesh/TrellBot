@@ -1,0 +1,54 @@
+[
+  {
+    "id": "7506adc3-2614-49ee-b6f7-9e32ef7100f6",
+    "data": [
+      {
+        "text": "exchange a product on trell shop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e47a46b6-e76d-4fcc-b567-fd5e5f81ba0c",
+    "data": [
+      {
+        "text": "steps for exchange a product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c23db7a1-4112-4c5c-bd33-c92db5befc4f",
+    "data": [
+      {
+        "text": "exchange a product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c5df105-87a1-42ae-af96-060935007771",
+    "data": [
+      {
+        "text": "exchange",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

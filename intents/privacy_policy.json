@@ -1,0 +1,35 @@
+{
+  "id": "e34a3865-19f7-4c47-b67a-7e340e3da780",
+  "name": "privacy_policy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Visit the link below for our term of use and privacy policy: \nhttps://trell.co/docs/TnC/#:~:text\u003dTrell%20cannot%20guarantee%20the%20authenticity,any%20other%20party%20resulting%20therefrom."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

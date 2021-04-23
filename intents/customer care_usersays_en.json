@@ -1,0 +1,93 @@
+[
+  {
+    "id": "3e56fcee-844e-44f1-a8f1-3162a8850671",
+    "data": [
+      {
+        "text": "customer care",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3716164-45a3-4b54-9b56-f423830d369c",
+    "data": [
+      {
+        "text": "contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97ab3d2e-e7ae-4341-bef6-5b0d4444b456",
+    "data": [
+      {
+        "text": "support contact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea2c8017-7c18-41f4-a3eb-b2102654fe68",
+    "data": [
+      {
+        "text": "a doubt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1967e93a-fadb-420b-a306-3f8f4f5fd73b",
+    "data": [
+      {
+        "text": "customer care support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0dc2664a-5772-4276-af7f-51368a5607e5",
+    "data": [
+      {
+        "text": "support email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11d21d03-2337-4e38-bca8-323f5f9c7818",
+    "data": [
+      {
+        "text": "support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

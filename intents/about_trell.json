@@ -1,0 +1,51 @@
+{
+  "id": "e61d1ac0-fd42-4be9-8ed9-ff0d8719ff41",
+  "name": "about_trell",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f4f0c6c2-05cf-4ccd-9386-f2a6b8a0ce47",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Trell is one of the most influential communities of India growing at a staggering pace. The community interacts and share interesting experiences to help everyone explore, engage and relive their trails. The team is passionate in presenting with new local experiences every day and every hour!",
+            "Trell is a simple way of bucketing interesting things to do at places. Find \u0026 share amazing hangout spots, street food stalls, sunset points, camping \u0026 trekking spots and many more things with friends on Trell!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

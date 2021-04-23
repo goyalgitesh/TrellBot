@@ -1,0 +1,50 @@
+{
+  "id": "851a3789-e42c-4d17-811e-02da63c3d9e2",
+  "name": "trell_shop",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "02880815-a896-4052-b550-9c40d17250ba",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can find the latest branded cosmetic products on trell with a heavy discount. you can purchase products from various categories like makeup, skincare, hair, fragrances, bath and body, men\u0027s grooming, tools and appliances,  personal /feminine hygiene, health and wellness, mom and baby products, etc. on trell shop. Just visit our trell shop page for more info. https://shop.trell.co/utm_source\u003dTrell%20Web\u0026utm_medium\u003dWatch\u0026utm_content\u003dShop"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "f5b4b1e7-74e9-48cd-b387-c46ba7e3fe2d",
+    "data": [
+      {
+        "text": "Why has ",
+        "userDefined": false
+      },
+      {
+        "text": "Trell",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " Shop cancelled my return request?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d2bf48d-8b9f-4a58-a8e9-3f4d44bb4289",
+    "data": [
+      {
+        "text": "Can I return a product?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

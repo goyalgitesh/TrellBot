@@ -1,0 +1,35 @@
+{
+  "id": "a422214c-0fec-41e2-a902-335b24306145",
+  "name": "customer care",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For any queries you mail us at support@trell.in or you can contact us on +91-8068972095  between 7 AM - 11 PM on all days of the week or just \nvisit our page at https://shop.trell.co/contact-us"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "8e7a1162-f86b-46d8-bf10-1cab22fb2a71",
+  "name": "exhange_product",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can follow the following steps. You can only place exchange requests for the products that are in your ‘My Order’ section. Go to My Orders in My Account section and click on the product Order code. Then click on the Return request/Cancel tab in front of the product that you want to exchange. Select the reason for exchange and upload the product image for the verification process.\n\n-The order should be reviewed within 24 hours of delivery. The exchange request can be placed in two cases, either the ordered product is different or the ordered product is damaged."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,87 @@
+{
+  "id": "77a97204-9d6f-4a6f-b242-0b389d28ffdc",
+  "name": "return_refund_policy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "dc770d50-a11d-4ef5-a9ff-cba5aa1e78f9",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "bc3a3754-36c7-4286-ae25-c002c8e6ab90",
+          "name": "unit-information-name",
+          "required": false,
+          "dataType": "@sys.unit-information-name",
+          "value": "$unit-information-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "can you please repeat?"
+            },
+            {
+              "lang": "en",
+              "value": "I can\u0027t understand that. Please repeat again"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "703f9e74-792c-4dd5-9604-e626716603ea",
+          "name": "unit-information-name1",
+          "required": false,
+          "dataType": "@sys.unit-information-name",
+          "value": "$unit-information-name1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Once the product reaches the brand\u0027s warehouse and goes through the required quality check, your refund will be processed to you via the same payment method within 7 working days."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
